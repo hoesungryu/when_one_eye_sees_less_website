@@ -48,6 +48,10 @@ document.querySelectorAll('img[src="/static/image/overview.png"]').forEach(img =
 </div>
 
 ---
+> Note: If you have any further questions, I can explain in more detail, so feel free to ask anytime. `chanchans0905@khu.ac.kr` 
+
+
+---
 
 ## Research Question: 
 When asymmetric quality degradation is applied to one eye in a 4K display, will users be unable to distinguish the degraded content from the original up to a certain quality threshold?
