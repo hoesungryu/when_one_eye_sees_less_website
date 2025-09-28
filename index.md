@@ -10,14 +10,13 @@ affiliations:
     Department of Information Display, Kyung Hee University, Seoul, Korea$^{1}$<br>
     Department of Artificial Intelligence, Korea University, Seoul, Korea$^{2}$
 # video: https://youtu.be/
-data: https://www.overleaf.com/project/677f603556e5681556974b2d
+data: https://osf.io/7azhu/
 # paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 # code: https://github.com/topics/turing-machines
 
 
 --- 
 ![Overview of Our Research](/static/image/overview.png)
-
 <script>
 document.querySelectorAll('img[src="/static/image/overview.png"]').forEach(img => {
   // 크기 + 정렬
@@ -49,6 +48,15 @@ document.querySelectorAll('img[src="/static/image/overview.png"]').forEach(img =
 </div>
 
 ---
+
+## Research Question: 
+When asymmetric quality degradation is applied to one eye in a 4K display, will users be unable to distinguish the degraded content from the original up to a certain quality threshold?
+## Objective: 
+This study aims to identify the perceptual quality thresholds for binocular asymmetric quality degradation in high-resolution VR environments, explore how these thresholds vary with different content types, and align them with objective quality metrics like VMAF.
+
+## Significance: 
+This research is the first to systematically investigate asymmetric quality degradation in 4K XR displays and provides foundational data for developing content-adaptive rendering strategies that can reduce computational load and power consumption in high-resolution VR systems while maintaining visual fidelity.
+
 
 <!-- ## Background
 “Can AI models achieve human-level future anticipation and visual attention strategies when predicting accident dilemmas in driving scenario?”
